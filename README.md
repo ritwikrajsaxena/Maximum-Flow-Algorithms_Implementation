@@ -1,0 +1,1 @@
+We have implemented Ford-Fulkerson Method and the Edmonds-Karp Algorithm for solving the Maximum flow problems with clean examples and visualizations. Both .py files as well as .ipynb files have been provided for both the algorithms.
